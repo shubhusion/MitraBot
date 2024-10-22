@@ -12,8 +12,8 @@ import { ReactNode } from "react"
 import "./globals.css"
 
 const inter = Inter({ subsets: ["latin"] })
-const APP_NAME = "Personal Finance"
-const APP_DEFAULT_TITLE = "Personal Finance"
+const APP_NAME = ""
+const APP_DEFAULT_TITLE = ""
 const APP_TITLE_TEMPLATE = " "
 const APP_DESCRIPTION = "Chabot UI PWA!"
 
